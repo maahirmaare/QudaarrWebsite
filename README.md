@@ -32,7 +32,7 @@ Qudaar is an ecommerce website specializing in fresh and organic fruits. The web
 
 ## Demo
 
-You can view a live demo of the website [here](#) (replace "#" with the actual live demo link).
+You can view a live demo of the website [here](#).
 
 ## Contact
 
